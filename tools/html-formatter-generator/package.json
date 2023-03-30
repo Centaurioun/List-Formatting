@@ -4,7 +4,7 @@
   "private": true,
   "dependencies": {
     "@types/css": "0.0.31",
-    "@types/jest": "^26.0.13",
+    "@types/jest": "^29.4.0",
     "@types/node": "^14.10.0",
     "css": "2.2.4",
     "react": "^16.13.1",
